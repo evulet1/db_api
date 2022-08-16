@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "given_name": "Ivan",
+      "initial": "Krivoi",
+      "family_name": "Petrovich",
+      "subdivision": "Zapchzsti",
+      "department": "Prodagi",
+      "login": "user",
+      "password": "123",
+      "comment": "",
+      "is_active": true,
+      "is_admin": false
+    },
+    {
+      "id": 2,
+      "given_name": "Ivan1",
+      "initial": "Krivoi1",
+      "family_name": "Petrovich1",
+      "subdivision": "Zapchzsti2",
+      "department": "Prodagi1",
+      "login": "user1",
+      "password": "123",
+      "comment": "1",
+      "is_active": true,
+      "is_admin": false
+    },
+    {
+      "id": 3,
+      "given_name": "Ivan2",
+      "initial": "Krivoi2",
+      "family_name": "Petrovich2",
+      "subdivision": "Zapchzsti3",
+      "department": "Prodagi2",
+      "login": "user2",
+      "password": "123",
+      "comment": "2",
+      "is_active": true,
+      "is_admin": false
+    },
+    {
+      "id": 4,
+      "given_name": "Ivan3",
+      "initial": "Krivoi3",
+      "family_name": "Petrovich3",
+      "subdivision": "Zapchzsti4",
+      "department": "Prodagi3",
+      "login": "user3",
+      "password": "123",
+      "comment": "3",
+      "is_active": true,
+      "is_admin": false
+    },
+    {
+      "id": 5,
+      "given_name": "Ivan4",
+      "initial": "Krivoi4",
+      "family_name": "Petrovich4",
+      "subdivision": "Zapchzsti5",
+      "department": "Prodagi4",
+      "login": "user4",
+      "password": "123",
+      "comment": "4",
+      "is_active": true,
+      "is_admin": false
+    }
+  ]
+}
